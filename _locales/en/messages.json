@@ -1,0 +1,51 @@
+{
+    "extName": {
+        "message": "Proxy Connector Made By Muhammad Haris"
+    },
+    "extDescription": {
+        "message": "Proxy Connector Made By Muhammad Haris"
+    },
+
+    "enabled": {
+        "message": "Enabled"
+    },
+    "addNewProxy": {
+        "message": "Add new proxy"
+    },
+    "noActiveProxy": {
+        "message": "You don't have an active proxy"
+    },
+    "confirmProxyDelete": {
+        "message": "Are you sure you want to delete this proxy?"
+    },
+    "addProxy": {
+        "message": "Add Proxy"
+    },
+    "label": {
+        "message": "Label"
+    },
+    "protocol": {
+        "message": "Protocol"
+    },
+    "host": {
+        "message": "Host"
+    },
+    "port": {
+        "message": "Port"
+    },
+    "hasAuth": {
+        "message": "Has auth?"
+    },
+    "username": {
+        "message": "Username"
+    },
+    "password": {
+        "message": "Password"
+    },
+    "add": {
+        "message": "Add"
+    },
+    "cancel": {
+        "message": "Cancel"
+    }
+  }
